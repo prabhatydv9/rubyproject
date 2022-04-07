@@ -1,7 +1,7 @@
 
 #reverse a String
 
-String1="indresh"
+String1="Prabhat"
 puts String1.reverse
 
 
@@ -29,20 +29,20 @@ puts name6.gsub("technology","development")
 
 
 #replace all characters in a string
-name7="Indresh"
+name7="Prabhat"
 puts " original string is :: #{name7}"
 puts " replace string is :: #{name7.replace("mahesh")}"
 
 
 #convert all letters of string to lower case
 
-name8="InDreSh"
+name8="prabhat"
 puts name8.upcase
 
 
 #convert all letters of string to upper case
 
-name9="INdResh"
+name9="Prabhat"
 puts name9.downcase
 
 
@@ -74,7 +74,7 @@ puts name14.eql?("Hello")
 
 #get the character index in string
 
-name15="indresh"
+name15="prabhat"
 puts name15.index("n")
 
 
